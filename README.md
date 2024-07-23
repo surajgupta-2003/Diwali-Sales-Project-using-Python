@@ -1,4 +1,4 @@
-# Bootstrap Blog Data Analysis Project
+#  Data Analysis Project
 
 ## Description
 This project involves data analysis using Jupyter Notebook and Python, leveraging libraries such as pandas, seaborn, and matplotlib. It includes various data visualization techniques and insights related to technology trends and topics.
